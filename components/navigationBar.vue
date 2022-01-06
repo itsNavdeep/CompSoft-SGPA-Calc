@@ -190,7 +190,7 @@ input[type=text]{
   outline: none;
   display: flex;
   border: none;
-  background-color: #25274D;
+  background-color: #222629;
   align-items: center;
   justify-content: center;
 }
@@ -205,6 +205,6 @@ input[type=text]{
   inset -5px -5px 10px rgba(113, 113, 113, 0.15), inset 5px 5px 10px rgba(22, 20, 20, 0.15);
 }
 .logout-btn:active:after{
-  color: #4CC3FF;
+  color: #86C232;
 }
 </style>

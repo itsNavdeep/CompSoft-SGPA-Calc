@@ -66,7 +66,7 @@ export default {
   width: 350px;
   height: auto;
   margin: 170px auto 30px;
-  border: 3px #4CC3FF solid;
+  border: 3px #86C232 solid;
   border-radius: 10px;
   padding: 20px;
 }
@@ -76,22 +76,22 @@ select{
   padding: 5px;
   font-size: 17px;
   outline: none;
-  border: 2px solid #4CC3FF;
+  border: 2px solid #86C232;
   margin-bottom: 10px;
 }
 
 button{
   padding: 3px 10px;
   font-size: 17px;
-  background: #25274D;
+  background: #222629;
   border-radius: 5px;
   color: #AAABB8;
-  border: 2px solid #4CC3FF;
+  border: 2px solid #86C232;
   outline: none;
 }
 
 button:hover{
-  background: rgba(41, 100, 138, 0.50);
+  background: rgba(97, 137, 47, 0.58);
 }
 
 *{
@@ -103,7 +103,7 @@ button:hover{
 .headContainer{
   font-size: 27px;
   font-weight: bold;
-  color: #4CC3FF;
+  color: #86C232;
   margin-bottom: 5px;
 }
 
@@ -111,28 +111,28 @@ select{
   padding: 5px;
   font-size: 17px;
   outline: none;
-  border: 2px solid #4CC3FF;
+  border: 2px solid #86C232;
   margin-bottom: 10px;
 }
 
 button{
   padding: 3px 10px;
   font-size: 17px;
-  background: #25274D;
+  background: #222629;
   border-radius: 5px;
   color: #AAABB8;
-  border: 2px solid #4CC3FF;
+  border: 2px solid #86C232;
   outline: none;
 }
 
 button:hover{
-  background: rgba(41, 100, 138, 0.50);
+  background: rgba(97, 137, 47, 0.56);
 }
 
 
 input{
   margin-bottom: 10px;
-  background-color: #25274D;
+  background-color: #222629;
   padding: 10px;
   border: none;
   width: 90%;
@@ -150,7 +150,7 @@ input{
 
 .designedText{
   font-size: 40px;
-  color: #4CC3FF;
+  color: #86C232;
   font-weight: bold;
 }
 </style>

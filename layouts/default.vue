@@ -17,6 +17,6 @@ export default {
 <style>
 html, body {
   font-family: Roboto Condensed, "Helvetica Neue", sans-serif;
-  background-color: #25274D;
+  background-color: #222629;
 }
 </style>

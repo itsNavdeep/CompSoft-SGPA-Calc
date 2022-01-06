@@ -2,7 +2,7 @@
   <div class="mainContainer">
     <div class="sideHeaderContainer">
       <div class="introductionContainer">
-        <p class="designedText">Simple, Fast, Accurate</p>
+        <p class="designedText">Accuracy you always <br>needed.</p>
         <p>A reliable SGPA calculator from <br>CompSoft Technologies.</p>
         <p></p>
       </div>
@@ -187,7 +187,7 @@ export default {
 .formContainer{
   padding: 30px;
   width: 300px;
-  border: 3px #29648A solid;
+  border: 3px #61892F solid;
   border-radius: 10px;
   height: auto;
   display: grid;
@@ -201,7 +201,7 @@ export default {
   font-size: 30px;
   font-weight: bold;
   margin: auto auto 10px;
-  color: #2E9CCA;
+  color: #86C232;
 }
 
 .nameContainer{
@@ -210,7 +210,7 @@ export default {
 
 input{
   margin-bottom: 10px;
-  background-color: #25274D;
+  background-color: #222629;
   padding: 10px;
   border: none;
   width: 90%;
@@ -236,7 +236,7 @@ input{
   color: #AAABB8;
 }
 .linkContainer a{
-  color: #2E9CCA;
+  color: #86C232;
   text-decoration: none;
 }
 
@@ -250,8 +250,8 @@ input{
 }
 
 .buttonContainer button{
-  border: 1px solid #4CC3FF;
-  background-color: #25274D;
+  border: 1px solid #86C232;
+  background-color: #222629;
   color: #AAABB8;
   font-size: 17px;
   font-weight: bold;
@@ -260,11 +260,11 @@ input{
 }
 
 .buttonContainer button:hover{
-  background-color: rgba(46, 156, 202, 0.70);
+  background-color: rgba(97, 137, 47, 0.70);
 }
 
 .buttonContainer button:hover:after{
-  background-color: #29648A;
+  background-color: #61892F;
 }
 
 .introductionContainer{
@@ -283,16 +283,15 @@ input{
   font-weight: bold;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  background-color: #00DBDE;
-  background-image: linear-gradient(63deg, #00DBDE 0%, #FC00FF 100%);
-
+  background-color: #F4D03F;
+  background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
 
 }
 
 .switchForm{
   border: none;
-  color: #4CC3FF;
-  background : #25274D;
+  color: #86C232;
+  background : #222629;
   font-size: 16px;
 }
 </style>

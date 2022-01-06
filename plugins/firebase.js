@@ -3,12 +3,12 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfiguration = {
-  apiKey: "AIzaSyBrh-ho8iTQ80zF-dM69Twnk11VoQPHljM",
-  authDomain: "compsoft-gpa-calc.firebaseapp.com",
-  projectId: "compsoft-gpa-calc",
-  storageBucket: "compsoft-gpa-calc.appspot.com",
-  messagingSenderId: "659798747336",
-  appId: "1:659798747336:web:669988f2f44d0b77415dfd"
+  apiKey: "AIzaSyA0354p0txZSZ-aPvp9RvsaLR5LFtNhGW8",
+  authDomain: "compsoft-gpa-calc-207d7.firebaseapp.com",
+  projectId: "compsoft-gpa-calc-207d7",
+  storageBucket: "compsoft-gpa-calc-207d7.appspot.com",
+  messagingSenderId: "229545567517",
+  appId: "1:229545567517:web:bb8242236ff0ff9108edf4"
 }
 
 let app ;

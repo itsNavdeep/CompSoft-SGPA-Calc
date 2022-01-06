@@ -39,7 +39,7 @@ export default {
 }
 
 body{
-  background-color: #2b3134;
+  background-color: #222629;
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
@@ -92,13 +92,13 @@ body{
 }
 
 .cgpaContainer:hover{
-  border-color: #15e3e3;
+  border-color: #86C232;
 }
 .cgpaContainer:hover:after{
-  border-color: #15e3e3;
+  border-color: #86C232;
 }
 .cgpaContainer:active:after{
-  border-color: #15e3e3;
+  border-color: #86C232;
 }
 
 .sgpaContainer:after{
@@ -107,13 +107,13 @@ body{
 }
 
 .sgpaContainer:hover{
-  border-color: #4CC3FF;
+  border-color: #86C232;
 }
 .sgpaContainer:hover:after{
-  border-color: #4CC3FF;
+  border-color: #86C232;
 }
 .sgpaContainer:active:after{
-  border-color: #4CC3FF;
+  border-color: #86C232;
 }
 
 .buttonDescription{
